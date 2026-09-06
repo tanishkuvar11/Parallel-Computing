@@ -79,8 +79,6 @@ int main(int argc, char *argv[])
     {
         printf("\nTotal number of non-vowels = %d\n",
                total_count);
-               
-         printf("\nSiddhant Bhardwaj\n");
 
 
         free(string);

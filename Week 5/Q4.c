@@ -96,7 +96,6 @@ int main(int argc, char *argv[])
         result[2 * length] = '\0';
 
         printf("\nResultant string = %s\n", result);
-		printf("\nSiddhant Bhardwaj\n");
 
         free(S1);
         free(S2);

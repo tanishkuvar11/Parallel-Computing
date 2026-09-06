@@ -92,7 +92,6 @@ int main(int argc, char *argv[])
 
         printf("Even Count = %d\n", total_even);
         printf("Odd Count  = %d\n", total_odd);
-        printf("\nSiddhant Bhardwaj\n");
 
 
         free(array);

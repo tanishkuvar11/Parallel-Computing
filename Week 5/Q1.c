@@ -70,7 +70,6 @@ int main(int argc, char *argv[])
         }
 
         printf("\nSum of factorials = %lld\n", total);
-        printf("\nSiddhant Bhardwaj\n");
     }
     else
     {
@@ -79,8 +78,8 @@ int main(int argc, char *argv[])
     }
 
     MPI_Finalize();
-    
-    
+
+
 
     return 0;
 }

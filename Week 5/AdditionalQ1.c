@@ -91,8 +91,7 @@ int main(int argc, char *argv[])
                 printf("Process %d - Cube Sum = %lld\n",
                        i, results[i]);
         }
-        
-        printf("\nSiddhant Bhardwaj\n");
+
 
 
         free(array);

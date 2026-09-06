@@ -56,8 +56,6 @@ int main(int argc, char *argv[])
         double average = (double)total_sum / (M * size);
 
         printf("\nTotal average = %.2f\n", average);
-        
-        printf("\nSiddhant Bhardwaj\n");
 
 
         free(array);

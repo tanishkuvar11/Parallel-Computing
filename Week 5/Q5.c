@@ -192,8 +192,7 @@ int main(int argc, char *argv[])
             printf("%d ", local_array[i]);
 
         printf("\n");
-        
-        printf("\nSiddhant Bhardwaj\n");
+
 
         free(array);
         free(local_array);
