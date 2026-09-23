@@ -1,4 +1,4 @@
-/* Q3) Implement a MPI program to read a 4 X 4 matrix and display the
+x/* Q3) Implement a MPI program to read a 4 X 4 matrix and display the
 following output using four processes.
 
 Input matrix:
